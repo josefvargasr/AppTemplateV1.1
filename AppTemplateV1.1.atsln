@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "AppTemplateV1.1", "BoardTemplateV1.1\AppTemplateV1.1.cproj", "{CEFF335B-2FFF-4C93-884E-61971682C696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFF335B-2FFF-4C93-884E-61971682C696}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CEFF335B-2FFF-4C93-884E-61971682C696}.Debug|ARM.Build.0 = Debug|ARM
+		{CEFF335B-2FFF-4C93-884E-61971682C696}.Release|ARM.ActiveCfg = Release|ARM
+		{CEFF335B-2FFF-4C93-884E-61971682C696}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
